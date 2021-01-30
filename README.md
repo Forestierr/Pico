@@ -20,11 +20,12 @@ Pour commencer télécharger le fichier [UF2 File](https://github.com/Forestierr
 5. Télécharger et installer l'IDE Thonny : [Thonny](https://thonny.org)
 6. Dans Thonny selectionner le Pico sous : Run - Select Interpreteur..
 
-<p align="center"> <a href=""><img src="https://raw.githubusercontent.com/Forestierr/Pico/main/1_Documentation/MicroPython-FINAL.webp" alt="gif" width="267" height="350"/></a> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/Forestierr/Pico/main/1_Documentation/MicroPython-FINAL.webp" alt="gif" width="267" height="350"/> </p>
 
 ## Pinout :
 
-![Pinout](https://github.com/Forestierr/Pico/blob/main/1_Documentation/Pico-R3-A4-Pinout.jpg =715X500)
+<p align="center"> <img src="https://github.com/Forestierr/Pico/blob/main/1_Documentation/Pico-R3-A4-Pinout.jpg" alt="gif" width="715" height="500"/> </p>
+
 
 ### License : [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 Lire : [LICENSE](https://github.com/Forestierr/Pico/blob/master/LICENSE)
